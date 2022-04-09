@@ -1,6 +1,6 @@
 # Introduction
 
-The repository [Jp-17/Coding_learning](https://github.com/Jp-17/Coding_learning) showed what I have learned during this rotation, you can go to that repo for more information.
+The repository [Jp-17/Coding_learning](https://github.com/Jp-17/Coding_learning) showed what I had learned during this rotation, you can go to that repo for more information.
 
 Here just shows my two little practice using [Allendata](https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html).
 
